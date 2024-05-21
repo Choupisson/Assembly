@@ -1,5 +1,5 @@
 # Assembly_ensibs
-## exercice&project
+## Exercices & Projet
 
 il s'agit d'une introduction à l'assembleur. 
 On y retrouve les exercices suivants : Hello-World, Hello-world dans un MessageBox, mise en majuscule d'une chaîne de caractère, comtpage abc, diviseur, factorielle.
